@@ -1,9 +1,8 @@
-# first frontend mentor practice
-My result: 
-![](./result.png)
+# My first frontend mentor practice
 
-# What I learnt:
+what I learnt:
 - uploading the practice to github
 - getting familiar with git
+- getting more accurate results with Figma
 
 Thanks!
